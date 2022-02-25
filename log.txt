@@ -1,0 +1,31 @@
+epsilon = 700
+====== five-grade marking ======
+hole:
+	Excellent = 51
+	Good = 9
+	Middle = 14
+	Pass = 114
+	Fail = 109
+volcano:
+	Excellent = 47
+	Good = 14
+	Middle = 19
+	Pass = 119
+	Fail = 107
+===============================
+
+epsilon = 1200
+====== five-grade marking ======
+hole:
+	Excellent = 5
+	Good = 3
+	Middle = 5
+	Pass = 27
+	Fail = 95
+volcano:
+	Excellent = 6
+	Good = 4
+	Middle = 2
+	Pass = 28
+	Fail = 86
+===============================
